@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     },
     {
-      title: "Weather Dashboard",
+      title: "Weather API",
       description: "Real-time weather application with API integration.",
       category: "web",
       image: "images/weather-app.jpg",
