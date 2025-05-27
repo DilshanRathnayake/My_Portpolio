@@ -52,13 +52,13 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     },
     {
-      title: "Math Quiz App",
-      description: "An interactive quiz app to test basic math knowledge.",
-      category: "app",
+      title: "React_project",
+      description: "An interactive React Project",
+      category: "web",
       image: "images/math-quiz.jpg",
       links: {
         demo: "#",
-        code: "#"
+        code: "https://github.com/DilshanRathnayake/React_project.git"
       }
     },
     {
