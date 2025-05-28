@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "web",
       image: "images/weather-app.jpg",
       links: {
-        demo: "#"
+        demo: "https://dilshanrathnayake.github.io/Web-project/"
         code: "https://github.com/DilshanRathnayake/web-project.git"
       }
     },
