@@ -72,13 +72,13 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     },
     {
-      title: "Task Manager",
-      description: "Productivity app to organize daily tasks with drag-and-drop.",
-      category: "app",
+      title: "Calculator",
+      description: "Calculator with HTML and CSS.",
+      category: "web",
       image: "images/task-manager.jpg",
       links: {
-        demo: "#",
-        code: "#"
+        demo: "https://dilshanrathnayake.github.io/Calculator/",
+        code: "https://github.com/DilshanRathnayake/Calculator.git"
       }
     },
     {
