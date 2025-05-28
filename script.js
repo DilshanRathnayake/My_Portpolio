@@ -82,13 +82,13 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     },
     {
-      title: "Space Invaders Game",
-      description: "Classic arcade game built with JavaScript.",
-      category: "game",
+      title: "My project",
+      description: "Web site about web development using HTML and CSS.",
+      category: "web",
       image: "images/space-invaders.jpg",
       links: {
-        demo: "#",
-        code: "#"
+        demo: "https://dilshanrathnayake.github.io/My-Project/",
+        code: "https://github.com/DilshanRathnayake/My-Project.git"
       }
     },
     {
