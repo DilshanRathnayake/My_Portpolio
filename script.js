@@ -62,13 +62,13 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     },
     {
-      title: "Weather API",
-      description: "Real-time weather application with API integration.",
+      title: "Web_project",
+      description: "My first web project using HTMl and CSS.",
       category: "web",
       image: "images/weather-app.jpg",
       links: {
-        demo: "#",
-        code: "#"
+        demo: "#"
+        code: "https://github.com/DilshanRathnayake/web-project.git"
       }
     },
     {
